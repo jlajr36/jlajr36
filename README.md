@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Amos.
 - 👀 I’m interested in simulating physics in code.
-- 🌱 I’m currently learning C#, C/C++.
+- 🌱 I’m currently learning C/C++.
 - 💞️ I’m looking to collaborate on simulation projects.
 - 📫 How to reach me jlajr36@gmail.com.
