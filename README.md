@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Amos.
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning Python, Javascript, and SQL.
-- 💞️ I’m looking to collaborate on full stack projects.
+- 👀 I’m interested in machine learning.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on machine learning.
 - 📫 How to reach me jlajr36@gmail.com.
